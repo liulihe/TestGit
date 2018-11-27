@@ -1,9 +1,7 @@
 package com.example.test;
 
 public class Pear implements Fruit {
-
-	public static void main(String[] args) {
+	public void print() {
 		System.out.println("我是梨 是凤梨");
 	}
-	
 }
